@@ -1,8 +1,5 @@
 # David santana
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-santana01&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-santana01&hide_progress=true&show_icons=true&theme=dark)
-
 <div style="display: inline_block"><br>
 <img align="center" alt="David-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">
 <img align="center" alt="David-Livewire" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original-wordmark.svg"g"> 
